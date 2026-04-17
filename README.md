@@ -42,7 +42,7 @@
 
 ## 👨‍💻 Author
 
-**Atik Hasan Sarker**
+**Mehedi Hasan**
 
 ---
 
